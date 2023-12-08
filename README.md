@@ -1,5 +1,10 @@
 ![The San Juan Mountains are beautiful!](/images/cover.png "San Juan Mountains")
 
+## 📊 Repository Insights
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimaSaadia&theme=prussian)](https://git.io/streak-stats)
+
+## 💻 Technologies in My Skill Set
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,firebase,nodejs,expressjs,mongodb,css,html,javascript&perline=5)](https://skillicons.dev)
 <!-- 
 **HalimaSaadia/HalimaSaadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
