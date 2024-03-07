@@ -21,7 +21,7 @@
 
 
 ## 🔗 Connect with me
-[![An old rock in the desert](/images/icon/linkedin.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/halima-saadiya-0a024a25a/)&nbsp; &nbsp; &nbsp; &nbsp;
+[![An old rock in the desert](/images/icon/linkedin.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/halimasaadia/)&nbsp; &nbsp; &nbsp; &nbsp;
 [![An old rock in the desert](/images/icon/facebook.png "Shiprock, New Mexico by Beau Rogers")](https://www.facebook.com/halima.saadiya.712)
 
 ## 🔄 Recent projects
