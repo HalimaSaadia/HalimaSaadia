@@ -26,7 +26,7 @@
 
 ## 🔄 Recent projects
 
-#### NexusNews(Fullstack-newspaper-website)
+#### Dream Finder(Job Hunting Website)
 - Explore a vast selection of job post from different Category. Job Hunters can find their desire job effectively From our platform. By using multiple filtering option such as job type, location, salary, category user can narrow down the search result and find the perfect match apply for job.
 
 - Users Can view application history and review submissions for each application. Users are allowed to give feedback to our platform also users can update the profile information.
