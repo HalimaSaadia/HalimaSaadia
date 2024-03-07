@@ -27,6 +27,15 @@
 ## 🔄 Recent projects
 
 #### NexusNews(Fullstack-newspaper-website)
+- Explore a vast selection of job post from different Category. Job Hunters can find their desire job effectively From our platform. By using multiple filtering option such as job type, location, salary, category user can narrow down the search result and find the perfect match apply for job.
+
+- Users Can view application history and review submissions for each application. Users are allowed to give feedback to our platform also users can update the profile information.
+
+- Security and technology: Companies can view the applications submitted for their organizations and manage those applications. From Admin dashboard Admin can Manage the users, feedbacks, application.
+
+- Live Link: https://dream-finder.vercel.app
+
+#### NexusNews(Fullstack-newspaper-website)
 - Comprehensive user management system: Users can view all
 articles, add, edit, and delete their own articles. They can also
 subscribe to the website for different periods of time and update
@@ -57,15 +66,7 @@ UI used in front-end and express JS and mongoDB used in back-end
 
 - Live Link: https://service-squad.netlify.app
 
-#### TechHive(Brand-shop)
 
-- Online Gadget Shop Platform: Explore a vast selection of cutting-edge gadgets from a specific brand, curated to meet the tech-savvy needs of our customers.
-
-- User-Driven Product Addition: Users are free to add any gadget to website
-
-- Technology: React,Firebase, node js, mongoDB
-
-- Live link: https://assignment10-brand-shop.web.app/
 
 
 
