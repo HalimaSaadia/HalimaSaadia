@@ -9,7 +9,7 @@
 <br> 
 
 ## 💻 Technologies in My Skill Set
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,firebase,nodejs,expressjs,mongodb,css,html,javascript&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,materialui,firebase,nodejs,expressjs,mongodb,npm,github,discord,css,html&perline=7)](https://skillicons.dev)
 <br>
  
 ## 🎯 Present Activities
