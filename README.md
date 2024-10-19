@@ -30,9 +30,16 @@
 <br>
  
 # 🎯 Present Activities
+<div style="display:flex; grid-gap: 20px">
+
 - 🔭 I’m currently working on Exploring some new projects with React js to enhance my skill.
+
 - 🌱 I’m currently learning Next js to broaden my expertise and stay up-to-date with industry trends.
+
 - 👯 I’m looking to collaborate on Innovative projects that involve React js  where I can improve my skills and learn from others.
+
+<a href="https://app.daily.dev/halimatussadia"><img src="https://api.daily.dev/devcards/v2/FLRIiLga8lddGEg708EJe.png?r=wdk&type=default" width="356" alt="Halima Tus Sadia's Dev Card"/></a>
+</div>
 <br>
 <br>
 <br>
