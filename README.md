@@ -30,15 +30,28 @@
 <br>
  
 # 🎯 Present Activities
-<div style="display:flex; grid-gap: 20px">
+<table>
+  <tr>
+    <td valign="top">
+      - 🔭 I’m currently working as a Junior Full Stack Developer at <a href="https://www.linkedin.com/company/tendertradinginc/mycompany/"> Tender Trading Inc</a>
+      <br>
+      <br>
+      - 🌱  I’m currently learning Next.js to broaden my expertise and stay up-to-date with industry trends.
+      <br>
+      <br>
+      - 👯 I’m looking to collaborate on innovative projects that involve Next.js where I can improve my skills and learn from others.
+      <br>
+      <br>
+      - ✨ I have also explored Mongoose and ShadCN Next UI.
+    </td>
+    <td>
+      <a href="https://app.daily.dev/halimatussadia">
+        <img  src="https://api.daily.dev/devcards/v2/FLRIiLga8lddGEg708EJe.png?r=wdk&type=default" width="256" alt="Halima Tus Sadia's Dev Card"/>
+      </a>
+    </td>
 
-- 🔭 I’m currently working on Exploring some new projects with React js to enhance my skill.
-
-- 🌱 I’m currently learning Next js to broaden my expertise and stay up-to-date with industry trends.
-
-- 👯 I’m looking to collaborate on Innovative projects that involve React js  where I can improve my skills and learn from others.
-
-<a href="https://app.daily.dev/halimatussadia"><img src="https://api.daily.dev/devcards/v2/FLRIiLga8lddGEg708EJe.png?r=wdk&type=default" width="356" alt="Halima Tus Sadia's Dev Card"/></a>
+  </tr>
+</table>
 </div>
 <br>
 <br>
