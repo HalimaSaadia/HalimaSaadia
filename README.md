@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td>
-      <div  style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <div>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,materialui,firebase,nodejs,expressjs,mongodb,npm,github,discord,css,html&perline=6" alt="My Skills">
         </a>
@@ -58,7 +58,7 @@
     <td>
       <div align="center">
         <p>
-          <img style="width: 600px;" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalimaSaadia&show_icons=true&locale=en&layout=compact&theme=dark" alt="HalimaSaadia" />
+          <img  height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalimaSaadia&show_icons=true&locale=en&layout=compact&theme=dark" alt="HalimaSaadia" />
         </p>
       </div>
     <td>
