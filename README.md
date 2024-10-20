@@ -5,7 +5,21 @@
 
 # 📊 Repository Insights
 
+<br>
+<table>
+<tr>
+<td>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimaSaadia&theme=prussian)](https://git.io/streak-stats)
+
+</td>
+
+<td>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HalimaSaadia&show_icons=true&theme=tokyonight" alt="HalimaSaadia" />
+</td>
+</tr>
+ </table>
+
 <br>
 <br>
 <br>
@@ -30,6 +44,7 @@
 <br>
  
 # 🎯 Present Activities
+
 <table>
   <tr>
     <td valign="top">
