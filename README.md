@@ -15,13 +15,13 @@
 <table>
 
 <tr>
-  <td>
+  <td style="border: none;">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimaSaadia&theme=prussian)](https://git.io/streak-stats)
 
   </td>
 
-  <td>
+  <td style="border: none;">
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HalimaSaadia&show_icons=true&theme=tokyonight" alt="HalimaSaadia" />
   </td>
 </tr>
