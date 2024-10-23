@@ -1,7 +1,7 @@
 ![The San Juan Mountains are beautiful!](/images/cover.png "San Juan Mountains")
 <br> 
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BDDFFF&vCenter=true&multiline=true&width=600&height=120&lines=Hi!+I'm+Sadia;Front-End+Focused;MERN+Stack+Developer;Passionate+about+Crafting+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BDDFFF&vCenter=true&multiline=true&width=600&height=100&lines=Hi!+I'm+Sadia;Front-End+Focused;MERN+Stack+Developer;Passionate+about+Crafting+Web+Experiences)](https://git.io/typing-svg)
 
 <br> 
 <br>
