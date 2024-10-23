@@ -1,7 +1,12 @@
 ![The San Juan Mountains are beautiful!](/images/cover.png "San Juan Mountains")
+<br> 
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BDDFFF&vCenter=true&multiline=true&width=600&height=120&lines=Hi!+I'm+Sadia;Front-End+Focused;MERN+Stack+Developer;Passionate+about+Crafting+Web+Experiences)](https://git.io/typing-svg)
 
 <br> 
 <br>
+
+
 
 # 📊 Repository Insights
 
@@ -10,15 +15,15 @@
 <table>
 
 <tr>
-<td>
+  <td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimaSaadia&theme=prussian)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HalimaSaadia&theme=prussian)](https://git.io/streak-stats)
 
-</td>
+  </td>
 
-<td>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HalimaSaadia&show_icons=true&theme=tokyonight" alt="HalimaSaadia" />
-</td>
+  <td>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HalimaSaadia&show_icons=true&theme=tokyonight" alt="HalimaSaadia" />
+  </td>
 </tr>
  </table>
 
@@ -64,8 +69,6 @@
     <td>
   </tr>
 </table>
-
-
 
 <br>
 <br>
