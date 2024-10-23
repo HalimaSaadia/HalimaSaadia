@@ -12,11 +12,7 @@
 
 <br>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 
 
 
