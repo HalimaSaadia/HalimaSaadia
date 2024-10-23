@@ -12,7 +12,7 @@
 
 <br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 
 <tr>
   <td style="border: none;">
