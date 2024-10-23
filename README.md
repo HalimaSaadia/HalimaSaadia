@@ -12,6 +12,15 @@
 
 <br>
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+
+
 <table style="border: none; border-collapse: collapse;">
 
 <tr>
