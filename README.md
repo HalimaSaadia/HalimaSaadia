@@ -32,7 +32,7 @@
 </tr>
  </table>
 
- <p>
+ <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -59,16 +59,21 @@
 <table>
   <tr>
     <td>
-      <div>
+      <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,materialui,firebase,nodejs,expressjs,mongodb,npm,github,discord,css,html&perline=6" alt="My Skills">
+            <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,materialui,firebase,nodejs,expressjs,mongodb,npm,github,discord&perline=6" alt="My Skills">
         </a>
-      </div>
+      </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=css,html,linkedin,vscode&perline=6" alt="My Skills">
+        </a>
+      </p>
     <td>
     <td>
       <div align="center">
         <p>
-          <img  height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalimaSaadia&show_icons=true&locale=en&layout=compact&theme=dark" alt="HalimaSaadia" />
+          <img  height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalimaSaadia&show_icons=true&locale=en&layout=compact&theme=dark" alt="HalimaSaadia" />
         </p>
       </div>
     <td>
