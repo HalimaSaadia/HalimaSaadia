@@ -56,9 +56,9 @@
 <br>
 <br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,tailwind,materialui,firebase,nodejs,expressjs,mongodb,npm,github,discord&perline=6" alt="My Skills">
@@ -70,7 +70,7 @@
         </a>
       </p>
     <td>
-    <td>
+    <td style="border: none;">
       <div align="center">
         <p>
           <img  height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalimaSaadia&show_icons=true&locale=en&layout=compact&theme=dark" alt="HalimaSaadia" />
