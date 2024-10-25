@@ -1,6 +1,12 @@
 ![The San Juan Mountains are beautiful!](/images/cover.png "San Juan Mountains")
+<p align="end">
+
+![The San Juan Mountains are beautiful!](https://komarev.com/ghpvc/?username=HalimaSaadia)
+</p>
+
 <br> 
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=BDDFFF&vCenter=true&multiline=true&width=600&height=100&lines=Hi!+I'm+Sadia;Front-End+Focused;MERN+Stack+Developer;Passionate+about+Crafting+Web+Experiences)](https://git.io/typing-svg)
 
 <br> 
@@ -45,6 +51,10 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+   <img alt="Material-UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
 </p>
 
 <br>
